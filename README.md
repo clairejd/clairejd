@@ -2,4 +2,4 @@
 
 pronouns: she/they
 
-my [portfolio website](https://clairedurant.dev) is a better representation of what i get up to.
+i don't do much here. my [personal website](https://claireja.de) is a better representation of what i get up to.
